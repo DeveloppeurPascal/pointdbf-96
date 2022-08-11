@@ -16,5 +16,10 @@ L'[article publié à l'époque est consultable](https://developpeur-pascal.fr/c
 
 ## Captures d'écran dans le dossier /screen-captures
 
-* "se-connecter.jpg" montre la fenêtre de connexion (user/password) proposée par le composant en mode pduConnect
-* "modifier-mot-de-passe.jpg" montre la boite de dialogue en mode pduConnectAndChange pour saisir le user/password et changer le mot de passe avec saisie du nouveau mot de passe deux fois.
+![capture écran de connexion](https://github.com/DeveloppeurPascal/pointdbf-96/raw/main/screen-captures/se-connecter.jpg)
+
+"se-connecter.jpg" montre la fenêtre de connexion (user/password) proposée par le composant en mode pduConnect
+
+![capture écran modification mot de passe](https://github.com/DeveloppeurPascal/pointdbf-96/raw/main/screen-captures/modifier-mot-de-passe.jpg)
+
+"modifier-mot-de-passe.jpg" montre la boite de dialogue en mode pduConnectAndChange pour saisir le user/password et changer le mot de passe avec saisie du nouveau mot de passe deux fois.
