@@ -1,6 +1,6 @@
 # Composant Password en Delphi (magazine PointDBF n°96)
 
-Sources liés à l'article "Composant Password en Delphi" publié dans le magazine *PointDBF* n°96 en janvier 1999.
+Sources liés à l'article "[Composant Password en Delphi](https://developpeur-pascal.fr/composant-password-en-delphi-dans-le-magazine-pointdbf-96-janvier-1999.html)" publié dans le magazine *PointDBF* n°96 en janvier 1999.
 
 Ce dépôt contient un composant Delphi VCL de connexion et de saisie de mot de passe. Il devrait toujours fonctionner en versions récentes de l'IDE de Delphi comme avec les versions historiques de l'environnement de développement.
 
